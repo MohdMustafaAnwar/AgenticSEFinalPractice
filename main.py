@@ -15,3 +15,4 @@ best_student = max(
 )
 
 print("\nTop student:", best_student)
+print("Program completed successfully!")
